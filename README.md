@@ -1,3 +1,2 @@
 # hello-world
-GiTHub test
-Meu nome é José
+Hackathon-Sunset-2018
